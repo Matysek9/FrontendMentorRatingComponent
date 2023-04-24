@@ -1,0 +1,10 @@
+.circle{
+    border-radius: 100rem;
+    background-color: hsla(var(--LightGrey),0.1);
+    padding: 0.8rem;
+    border: none;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    
+}

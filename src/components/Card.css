@@ -1,0 +1,7 @@
+@import "../assets/colors.css";
+.card{
+    background-color: rgb(var(--Card));
+    border-radius: 1rem;
+    padding: 2rem;
+    max-width: 350px;
+}

@@ -1,0 +1,30 @@
+.myMain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.img {
+  padding: 1rem;
+}
+
+.selectedPoints {
+  color: hsla(var(--Orange), 0.7);
+  padding: 0.9rem;
+  background-color: hsla(var(--Dark-Blue), 0.8);
+  border-radius: 2rem;
+  margin-top: 1rem;
+  display: block;
+}
+
+.cardText {
+  color: hsl(var(--MediumGrey));
+  text-align: center;
+  line-height: 1.5rem;
+  font-size: 16px;
+}
+
+.container{
+    text-align: center;
+}

@@ -1,0 +1,12 @@
+button{
+    color: hsla(var(--White),0.5);
+    font-weight: 700;
+    width: 2.5rem;
+}
+
+.stateColor:hover{
+    background-color: hsl(var(--LightGrey));
+}
+.stateColor:focus{
+    background-color: hsl(var(--Orange));
+}

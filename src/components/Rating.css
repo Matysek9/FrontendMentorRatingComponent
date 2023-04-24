@@ -1,0 +1,10 @@
+h1{
+    color: hsl(var(--White));
+    font-weight: 400;
+}
+
+.simpleText{
+    color: hsl(var(--LightGrey));
+    line-height: 1.5rem;
+}
+

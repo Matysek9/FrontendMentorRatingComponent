@@ -1,0 +1,23 @@
+.pointsContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.submitBTN {
+  width: 100%;
+  padding: 1rem;
+  background-color: hsl(var(--Orange));
+  border: none;
+  border-radius: 2rem;
+  margin-top: 1rem;
+  font-weight: 700;
+  font-size: larger;
+  color: hsla(var(--White), 0.8);
+  letter-spacing: 2px;
+}
+
+.submitBTN:active{
+  background-color: hsla(var(--White),0.7);
+  color: black;
+}
